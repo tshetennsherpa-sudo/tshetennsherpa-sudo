@@ -23,7 +23,7 @@ Power Platform & BI Developer | Generative AI Builder | Microsoft 365
 ## 🔥 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [JobFit AI](https://github.com/tshetennsherpa-sudo/jobfit-ai) | AI-powered resume & job match analyzer | Python, Streamlit, Gemini API |
+| [JobFit AI](https://github.com/tshetennsherpa-sudo/jobfit-ai) | AI-powered resume & job match analyzer - hackathon project | Python, Streamlit, Gemini API |
 | [Agentic News Radar](https://github.com/tshetennsherpa-sudo/AgenticNewsRadar) | Autonomous news monitoring agent | Python, Streamlit, Claude API |
 | [HR Policy Assistant](https://github.com/tshetennsherpa-sudo/Distributed-RAG-Streamlit) | Distributed RAG system with local LLMs | FAISS, LangChain, LM Studio |
 | [Power BI E-Commerce Analytics](https://github.com/tshetennsherpa-sudo/powerbi-ecommerce-analytics) | Brazil e-commerce dashboard with 100K+ orders | Power BI, DAX, Power Query |
