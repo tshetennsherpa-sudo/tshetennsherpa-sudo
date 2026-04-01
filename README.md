@@ -27,7 +27,7 @@ Power Platform & BI Developer | Generative AI Builder | Microsoft 365
 | [Agentic News Radar](https://github.com/tshetennsherpa-sudo/AgenticNewsRadar) | Autonomous news monitoring agent | Python, Streamlit, Claude API |
 | [HR Policy Assistant](https://github.com/tshetennsherpa-sudo/Distributed-RAG-Streamlit) | Distributed RAG system with local LLMs | FAISS, LangChain, LM Studio |
 | [Power BI E-Commerce Analytics](https://github.com/tshetennsherpa-sudo/powerbi-ecommerce-analytics) | Brazil e-commerce dashboard with 100K+ orders | Power BI, DAX, Power Query |
-| Vernlo | AI document analyzer — hackathon project | React, Node.js, Claude API |
+| [Vernlo-AI document analyzer](https://github.com/tshetennsherpa-sudo/vernlo) |AI document analyzer — hackathon project | React, Node.js, Claude API |
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsheten-sherpa-79228b2a4)
