@@ -30,5 +30,5 @@ Power Platform & BI Developer | Generative AI Builder | Microsoft 365
 | Vernlo | AI document analyzer — hackathon project | React, Node.js, Claude API |
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tsheten-sherpa-79228b2a4])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsheten-sherpa-79228b2a4)
 
